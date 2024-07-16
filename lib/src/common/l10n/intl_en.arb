@@ -1,0 +1,24 @@
+{
+  "@@locale": "en",
+  "choose_language" : "Choose Language",
+  "choose_panel_header" : "You will continue as",
+  "choose_panel_sub_header" : "Select one of the following",
+
+  "choose_panel_button_tourist" : "Tourist",
+  "choose_panel_button_guide" : "Guide",
+
+  "auth_login_header_login_up" : "Login up",
+  "auth_login_sub_header_login_up" : "Log in with one of the following option",
+  "auth_login_button" : "Login",
+  "auth_login_do_not_have_account" : "Don,t  have  an account?  ",
+  "auth_login_go_sign_up" : "Register",
+
+  "auth_create_account_text" : "Create Account",
+  "auth_create_account_header_enter_full_name" : "Enter your full name",
+  "auth_create_account_label_name" : "Name",
+  "auth_create_account_label_surname" : "Surname",
+  "auth_create_account_next_button" : "Next",
+  "auth_create_account_already_have_account" : "Already have  an account? ",
+  "auth_create_account_go_login_up" : " Log in",
+  "auth_create_account_enter_your_email" : "Enter your email"
+}

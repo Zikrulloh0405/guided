@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "363964507923",
+    "project_id": "guided-bcd34",
+    "storage_bucket": "guided-bcd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363964507923:android:7485e354fd9654ba495ce6",
+        "android_client_info": {
+          "package_name": "com.zikrulloh.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFd1sPXK16U5xSO7GTZLiI3ovG507Y8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363964507923:android:4cfbfdd0df2c0de0495ce6",
+        "android_client_info": {
+          "package_name": "com.zikrulloh.guidist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFd1sPXK16U5xSO7GTZLiI3ovG507Y8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
